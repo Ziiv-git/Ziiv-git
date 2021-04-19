@@ -13,7 +13,7 @@ I am an Information Technology Engineer, currently pursuing Data Science. Profes
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<Ziiv-git>&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ziiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=<Ziiv_git>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ziiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=<Ziiv-git>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 --------
 
