@@ -7,13 +7,17 @@ I am an Information Technology Engineer, currently pursuing Data Science. Profes
 
 <img src = 'https://cdn.worldvectorlogo.com/logos/python-5.svg' alt="Python Logo" width="50" height="50"/>  <img src="https://www.probabilisticworld.com/wp-content/uploads/2020/08/jupyter-notebook-logo.jpg" alt="Jupyter Logo" width="50" height="50"/>  <img src = 'https://miro.medium.com/max/3880/1*ddtqWGkJz1TUCg1WM9qKeQ.jpeg' alt="Colab Logo" width="50" height="50"/> <img src = 'https://www.brentozar.com/wp-content/uploads/2019/03/azure_sql_db.jpg' alt="SQL Logo" width="50" height="50"/>  <img src = 'https://yt3.ggpht.com/a-/AAuE7mAixrJ4qaOd7-iT99-h5KYRIpGR14SfICmA_g=s900-mo-c-c0xffffffff-rj-k-no' alt="Tensorflow Logo" width="50" height="50"/> <img src = 'https://cdn.worldvectorlogo.com/logos/git-icon.svg' alt="Tensorflow Logo" width="50" height="50"/>
 --------
-
 --------
+
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<Ziiv-git>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<Ziiv-git>&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ziiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=<Ziiv-git>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ziiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=<Ziiv_git>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+--------
+
+
 
 <!--
 **Ziiv-git/Ziiv-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
